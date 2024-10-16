@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Harish Aggarwal!  
-![Programmer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogrammer&psig=AOvVaw3tWTDcs99SChCs1MmmG_7U&ust=1729162863312000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiG2-XfkokDFQAAAAAdAAAAABAE)
+![Programmer](https://raw.githubusercontent.com/HarishAggarwal/HarishAggarwal/refs/heads/main/GITHUB.webp)
 
 ---
 

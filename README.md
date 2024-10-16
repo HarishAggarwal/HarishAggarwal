@@ -1,16 +1,58 @@
-## Hi there 👋
+## Hi there 👋, I'm Harish Aggarwal!  
+![Programmer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogrammer&psig=AOvVaw3tWTDcs99SChCs1MmmG_7U&ust=1729162863312000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiG2-XfkokDFQAAAAAdAAAAABAE)
 
-<!--
-**HarishAggarwal/HarishAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 **I’m currently working in** [Samsung Prism](https://research.samsung.com/prism)<br>
+🌱 **Currently diving into** `Computer Vision`<br>
+💬 **Ask me anything about** `Data Structures`, `Neural Networks`, and `AI/ML algorithms`<br>  
+💻 **Passionate about exploring** AI-powered innovations and the intersection of `Deep Learning` & `Computer Vision`.<br>  
+🎯 **Favourite Language**: Still rocking **C++**, despite working extensively with **Deep Learning frameworks** like TensorFlow and PyTorch!<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Fun Facts:
+- I'm a **JEE Advanced Rank holder**, constantly seeking new challenges in AI and tech!
+- I love tinkering with **C++**, but I’m equally proficient in **Python** for AI/ML.
+- I’ve been fortunate to collaborate on cutting-edge **AI projects** like building CNNs for solar panel maintenance and AI-powered legal chatbots.  
+- Despite my deep dive into **Neural Networks**, my true coding **comfort zone** lies in **Data Structures**.
+
+---
+
+### 🔧 Technologies & Tools:
+
+- **Languages**: C++, Python, Java, JavaScript  
+- **AI/ML Tools**: TensorFlow, PyTorch, Jetson Nano  
+- **Web Development**: HTML, CSS, ReactJS, Tailwind CSS, Material-UI  
+- **Cloud**: AWS Cloud
+- **Version Control**: Git, GitHub  
+
+---
+
+### 👨‍💻 Projects I’ve Worked On:
+
+- **Solar Panel Cleaning Robot** (AI-powered maintenance system using CNNs)  
+- **AI-powered Legal Chatbot** (Leveraging Groq and OpenAI APIs)  
+
+---
+
+### 📚 Currently Learning:
+
+- **Advanced Computer Vision** (Object detection, image segmentation, etc.)  
+- **AI-driven Automation**  
+- **Neuroplasticity** and its applications in Artificial Intelligence  
+
+---
+
+### 📫 How to reach me:
+- **Email**: harishaggarwal2516@yahoo.com
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/harish-aggarwal-407b5b239/)  
+- **GitHub**: [Follow my work!](https://github.com/HarishAggarwal)
+
+😄 Pronouns: He/Him  
+⚡ Fun fact: Despite having a good grasp of **Deep Learning**, **C++** remains my favorite language! 😄
+
+---
+
+Let's collaborate on something **awesome**! 👨‍💻 I'm open to new opportunities, collaborations, and discussions in the field of **AI/ML**, **Deep Learning**, and **Computer Vision**.
+
